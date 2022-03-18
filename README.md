@@ -11,13 +11,19 @@ Some of my best repos are:
 * [word-mover-grammar](https://github.com/avidale/word-mover-grammar) - a constituency grammar parser that supports word embeddings
 * [weirdMath](https://github.com/avidale/weirdMath) - a collection of small Python etudes, mostly about data science
 
+You can also take a look at [my HugginFace contributions](https://huggingface.co/cointegrated), including: 
+* a [tiny Russian BERT](https://huggingface.co/cointegrated/rubert-tiny2)
+* the first public [Russian NLI model](https://huggingface.co/cointegrated/rubert-base-cased-nli-threeway)
+* the only [Russian multitask T5 model](https://huggingface.co/cointegrated/rut5-base-multitask)
+* one of the largest Russian [paraphrase datasets](https://huggingface.co/datasets/cointegrated/ru-paraphrase-NMT-Leipzig)
+
 My Telegram channels:
 * https://t.me/matchast - about applied math and data science
 * https://t.me/izolenta_mebiusa - about programming and NLP
 
 Contacts:
 * https://t.me/cointegrated
-* dale.david@mail.ru
+* daledavidd@gmail.com
 * https://daviddale.ru/en for more info
 
 <!--
