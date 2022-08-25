@@ -1,6 +1,6 @@
-Hi! I am __David Dale__, data scientist and chatbot developer. 👋
+Hi! I am __David Dale__, research engineer in natural languae processing. 👋
 
-You can read more about me in [Russian](https://daviddale.ru/) or [English](https://daviddale.ru/en).
+You can read more about me in [Russian](https://daviddale.ru/ru) or [English](https://daviddale.ru/en).
 
 Some of my best repos are:
 
