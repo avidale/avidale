@@ -26,7 +26,7 @@ My Telegram channels:
 Contacts:
 * https://t.me/cointegrated
 * daledavidd@gmail.com
-* https://daviddale.ru/en for more info
+* https://daviddale.me for more info
 
 <!--
 **avidale/avidale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
