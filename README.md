@@ -1,6 +1,6 @@
 Hi! I am __David Dale__, research engineer in natural language processing. 👋
 
-You can read more about me in [Russian](https://daviddale.ru/ru) or [English](https://daviddale.ru/en).
+You can read more about me in [Russian](https://daviddale.me/ru) or [English](https://daviddale.me/en).
 
 I am open to collaboration, especially on creating NLP tools (such as machine translation models) for lower-resourced languages.
 
